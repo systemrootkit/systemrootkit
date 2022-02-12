@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=systemrootkit" alt="systemrootkit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ananthusnair12" target="blank"><img src="https://img.shields.io/twitter/follow/@ananthusnair12?logo=twitter&style=for-the-badge" alt="@ananthusnair12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ananthusnair12" target="blank"><img src="https://img.shields.io/twitter/follow/@ananthusnair12?logo=twitter&style=for-the-badge" alt="@ananthusnair12" />@ananthusnair12</a> </p>
 
 - 📫 How to reach me **ananthusnair299@gmail.com**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
