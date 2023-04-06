@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **password manager application**
 
-- 📫 How to reach me **ananthusnair@gmail.com**
+- 📫 How to reach me **ananthusnair299@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
